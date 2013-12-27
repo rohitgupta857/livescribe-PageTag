@@ -1,0 +1,3 @@
+alpha = [A-Z]
+pattern = {alpha}+
+{pattern}

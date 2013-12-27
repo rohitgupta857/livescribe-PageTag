@@ -1,0 +1,7 @@
+numeric = [0-9]
+alpha = [A-Z]
+
+tagletter = {alpha}|{numeric}
+pattern = {tagletter}+
+{pattern}
+

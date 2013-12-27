@@ -1,0 +1,5 @@
+name=PageTag
+appclassname=net.quasarsolutions.penlet.productivity.PageTag
+type=APP
+sound=/audio/pagetag.wav
+icon=
